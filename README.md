@@ -21,6 +21,27 @@ This Unity-based project is a visual and interactive system designed to compare 
 - **Custom Tile Cost System** – tiles display different movement costs via color:  
   🟩 Green (1) • 🟨 Yellow (2) • 🟥 Red (3+) • ⬜ Gray (impassable)
 
+## 🗺️ Example Maps
+
+Below are sample grid maps used in the project. Each map presents a different type of environment and challenge for the pathfinding algorithms.
+
+### 🔹 Map Previews
+
+This project includes three distinct tile-based maps, each designed to demonstrate different challenges for pathfinding algorithms.
+
+| Small Weighted Maze | Medium Unweighted Maze | Medium Obstacle Map |
+|---------------------|------------------------|----------------------|
+| ![Small Weighted Maze] ![image](https://github.com/user-attachments/assets/af110b5e-1223-4648-96e8-817130cdc0fd) | ![Medium Maze] ![image](https://github.com/user-attachments/assets/2481fe8e-ce03-4412-b606-0b33eec8a4ed) | ![Obstacle Map] ![image](https://github.com/user-attachments/assets/467a19b4-baaf-4d39-b177-e64469e8e1d4)
+ |
+
+
+Each map includes:
+- Unique **obstacle placement** and **tile cost variations**.
+- Testing conditions for **algorithm behavior**, **path optimality**, and **performance under complexity**.
+
+You can add new maps by creating a prefab with a `GridManager` component and placing tiles with appropriate cost and walkability properties.
+
+
 ## 🧠 Architecture
 
 - `GridManager` – Initializes grid and manages tiles.
