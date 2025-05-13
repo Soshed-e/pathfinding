@@ -31,7 +31,7 @@ This project includes three distinct tile-based maps, each designed to demonstra
 
 | Small Weighted Maze | Medium Unweighted Maze | Medium Obstacle Map |
 |---------------------|------------------------|----------------------|
-| ![Small Weighted Maze] ![image](https://github.com/user-attachments/assets/af110b5e-1223-4648-96e8-817130cdc0fd) | ![Medium Maze] ![image](https://github.com/user-attachments/assets/2481fe8e-ce03-4412-b606-0b33eec8a4ed) | ![Obstacle Map] ![image](https://github.com/user-attachments/assets/467a19b4-baaf-4d39-b177-e64469e8e1d4)
+| ![Small Weighted Maze](https://github.com/user-attachments/assets/af110b5e-1223-4648-96e8-817130cdc0fd) | ![Medium Maze](https://github.com/user-attachments/assets/2481fe8e-ce03-4412-b606-0b33eec8a4ed) | ![Obstacle Map](https://github.com/user-attachments/assets/467a19b4-baaf-4d39-b177-e64469e8e1d4)
  |
 
 
